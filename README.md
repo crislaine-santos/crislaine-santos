@@ -4,10 +4,8 @@ Me chamo Cris e sou uma estudante de Programação 😊
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cris-santos-carvalho/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](href="mailto:Crislainedecarvalho499@gmail.com")
 
-<a class="button" href="mailto:Crislainedecarvalho499@gmail.com">gmail</a>
-<button href="Crislainedecarvalho499@gmail.com" class="large">Large Button</button>
+<a class="button" href="mailto:Crislainedecarvalho499@gmail.com">Gmail</a>
 
 ![Cris GitHub stats](https://github-readme-stats.vercel.app/api?username=crislaine-santos&show_icons=true&theme=radical)
 
