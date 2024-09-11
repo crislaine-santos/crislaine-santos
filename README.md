@@ -1,23 +1,27 @@
-Olá 👋
+Olá  </>
 
-Me chamo Cris e sou uma estudante de Programação 😊
+Me chamo Crislaine e sou mais uma apaixonada por esse mundo mágico dos códigos..
+Estou no 5 semestre de Analise e Desenvolvimento de Sistemas e aqui você pode ver um pouco dos meus primeiros projetos pessoais e os futuros também!
+
+Fique à vontade para conhecer minhas redes sociais ☺️
+
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cris-santos-carvalho/)
-
-<a class="button" href="mailto:Crislainedecarvalho499@gmail.com">Gmail</a>
-
-![Cris GitHub stats](https://github-readme-stats.vercel.app/api?username=crislaine-santos&show_icons=true&theme=radical)
-
-| Essas são minhas tecnologias e conhecimentos!
+<a href = "mailto:crislainedecarvalho499@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/cris._.santos_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 
-![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
+| Atualmente essas são as Tcnologias das quais já estudei!
 
+<div style="display: inline_block"><br>
+<img align="center"  height="30" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg">
+<img align="center"  height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg">
+<img align="center"  height="30" width="40" src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg">
+<img align="center"  height="30" width="40" src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg">
+</div>
 
 
 
