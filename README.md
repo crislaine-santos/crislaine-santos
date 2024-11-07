@@ -16,6 +16,8 @@ Fique à vontade para conhecer minhas redes sociais ☺️
 
 | Atualmente essas são as Tcnologias das quais já estudei!
 
+Git&GitHub | LINQ | OOP | SQL Server | ASP.NET
+
 <div style="display: inline_block"><br>
 <img align="center"  height="30" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg">
 <img align="center"  height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg">
