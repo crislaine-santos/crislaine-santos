@@ -2,7 +2,7 @@
 
 #
 
-Estou cursando o Técnico em Desenvolvimento de Sistemas, com foco em C#. Sou apaixonada por esse mundo mágico dos códigos e tecnologia e aqui você pode ver um pouco dos meus primeiros projetos pessoais e os futuros também!
+Estou cursando o Técnico em Desenvolvimento de Sistemas, com foco em BackEnd. Sou apaixonada por esse mundo mágico dos códigos e tecnologia e aqui você pode ver um pouco dos meus primeiros projetos pessoais e os futuros também!
 
 #
 
@@ -17,10 +17,10 @@ Estou cursando o Técnico em Desenvolvimento de Sistemas, com foco em C#. Sou ap
 
 
 
-| Atualmente essas são as Tcnologias das quais já estudei!
+| Atualmente essas são as Tcnologias que trabalho!
 
 
-Git&GitHub | LINQ | OOP | SQL Server | ASP.NET
+Git&GitHub | EF Core | .NET | SQL Server | ASP.NET
 
 <div style="display: inline_block"><br>
 <img align="center"  height="30" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg">
