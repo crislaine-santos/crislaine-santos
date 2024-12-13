@@ -2,7 +2,9 @@
 
 ###
 
-<h4 align="left">Estou cursando o Técnico em Desenvolvimento de Sistemas, com foco em BackEnd. Sou apaixonada por esse mundo mágico dos códigos e tecnologia e aqui você pode ver um pouco dos meus primeiros projetos pessoais e os futuros também!</h4>
+<h4 align="left">Estou cursando o Técnico em Desenvolvimento de Sistemas, com foco em BackEnd. 
+  
+  Estou atualmente me aprofundando em C# e APIs, e aqui você pode ver um pouco dos meus primeiros projetos pessoais e os futuros também!</h4>
 
 #
 
