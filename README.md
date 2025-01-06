@@ -1,10 +1,10 @@
-<h2 align="center">~ Olá! Eu sou a Cris ~</h2>
+<h2 align="center">~ Olá! Eu ma chamo Cris ~</h2>
 
 ###
 
-<h4 align="left">Estou cursando o Técnico em Desenvolvimento de Sistemas, com foco em BackEnd. 
+<h4 align="left">Recém formada em Desenvolvimento de Sistemas, com foco em BackEnd. 
   
-  Estou atualmente me aprofundando em C# e APIs, e aqui você pode ver um pouco dos meus primeiros projetos pessoais e os futuros também!</h4>
+  Estou atualmente me aprofundando em APIs, e aqui você pode ver um pouco dos meus primeiros projetos pessoais e os futuros também!</h4>
 
 #
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">| Atualmente essas são as Tcnologias que trabalho!</h3>
+<h3 align="left">| Tecnologias!</h3>
 
 ###
 
