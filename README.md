@@ -1,10 +1,11 @@
-<h2 align="center">~ Olá! Eu ma chamo Cris ~</h2>
+# Olá! Eu me chamo Cris! 👋
 
 ###
 
-<h4 align="left">Recém formada em Desenvolvimento de Sistemas, com foco em BackEnd. 
-  
-  Estou atualmente me aprofundando em APIs, e aqui você pode ver um pouco dos meus primeiros projetos pessoais e os futuros também!</h4>
+Eu sou a **Crislaine Santos**, desenvolvedora de sistemas recém-formada com um foco em **Back-End**.
+
+Aqui no meu GitHub, você pode explorar um pouco dos **meus primeiros projetos pessoais** e acompanhar os **futuros desenvolvimentos**. Estou sempre buscando aprender, crescer e transformar ideias em soluções.
+
 
 #
 
@@ -15,15 +16,8 @@
 <h3 align="left">| Connect with me!</h3>
 
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/cris-santos-carvalho/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="crislainedecarvalho499@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/cris-santos-carvalho/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crislainedecarvalho$99@gmail.com)
 
 ###
 
@@ -56,6 +50,12 @@
 <img src="https://raw.githubusercontent.com/crislaine-santos/crislaine-santos/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+
+
+
 
 
 
